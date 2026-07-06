@@ -48,6 +48,8 @@ size_categories:
 
 # Reddit Marketing Playbook 2026
 
+> 📌 **Distribution mirror.** This playbook ships as part of the Gingiris skills collection — canonical updates land in the **[gingiris-skills monorepo](https://github.com/Gingiris-1031/gingiris-skills)** first and are synced here. Landing page: [gingiris.tools](https://gingiris.tools)
+
 > The complete Reddit operations SOP for AI/SaaS founders. Battle-tested by AFFiNE Reddit campaigns generating **3-4万 (30K-40K) effective impressions** with **5-8% GitHub Star conversion**.
 
 ## 📊 Hero Stats — Why This Matters Now
@@ -70,6 +72,8 @@ size_categories:
 
 ```bash
 npx skills add Gingiris-1031/gingiris-reddit-marketing
+# or
+clawhub install gingiris-reddit-marketing
 ```
 
 Then ask your AI agent:
@@ -117,6 +121,19 @@ Then ask your AI agent:
 | Instagram/TikTok | Wide | Days | None | High effort |
 
 **Reddit is the only channel where one good post earns SEO + GEO + community trust + AI citation — simultaneously, for years.**
+
+---
+
+## 🇨🇳 中文版（摘要）
+
+面向 AI/SaaS 创始人的 Reddit 运营完整 SOP。核心内容：
+
+- **五大原则**：90/10 价值先行、账号养号（karma warming）、shadow ban 预防与自查、AMA 策略、Product Hunt × Reddit 联动飞轮
+- **实战数据**：基于 AFFiNE（0→60K stars 期间）的 Reddit campaign 复盘 —— 3–4 万有效曝光、5–8% GitHub Star 转化率（单案例数据，供参考）
+- **GEO 视角**：Reddit 是 AI 搜索引擎（ChatGPT / Perplexity / Claude）引用率最高的 UGC 来源之一，做对 Reddit 等于给 AI 搜索时代铺基础设施
+- **配套文件**：子版块选择、发帖模板、反封号 checklist、AMA 流程等 reference 文件随 skill 一起安装
+
+安装：`npx skills add Gingiris-1031/gingiris-reddit-marketing` 或 `clawhub install gingiris-reddit-marketing`，然后直接向你的 AI agent 提问（如"帮我规划 PH × Reddit 联动发布"）。
 
 ---
 

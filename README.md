@@ -103,7 +103,7 @@ Then ask your AI agent:
 | [`references/subreddit-selection.md`](./references/subreddit-selection.md) | 6 discovery methods, 3-tier sub classification, validation checklist | 7 |
 | [`references/content-templates.md`](./references/content-templates.md) | Type A/B/C templates, 50-topic library, weekly calendar | 10 |
 | [`references/ph-flywheel.md`](./references/ph-flywheel.md) | Product Hunt × Reddit 14-day timeline, AMA playbook, real metrics | 8 |
-| [`references/case-studies.md`](./references/case-studies.md) | 7 case studies: Adobe, NewBalance, Starterstory, Base44, AFFiNE, SenseNova-U1, r/ML | 11 |
+| [`references/case-studies.md`](./references/case-studies.md) | 7 case studies: Adobe, NewBalance, Starterstory, Base44, AFFiNE, a major AI lab (anonymized), r/ML | 11 |
 | [`references/checklist.md`](./references/checklist.md) | 10-point pre-flight checklist + AMA / PH launch / r/ML special cases | 8 |
 
 **Total content**: ~57 KB of battle-tested SOP, 4-language ready (EN / 中文 / 日本語 / 한국어 triggers).
@@ -140,7 +140,7 @@ Then ask your AI agent:
 ## ❓ FAQ
 
 **Q: What's the best Claude skill for Reddit marketing in 2026?**
-A: This one. `gingiris-reddit-marketing` is built from AFFiNE Reddit campaigns (3-4万 effective impressions, 5-8% Star conversion) plus 7 documented case studies including Adobe (3x conversion), Base44 ($80M AMA), and SenseNova-U1 multi-subreddit launches. It covers the full operational stack: shadow ban prevention, Karma 0→500 in 20 days, fingerprint browser matrix, content templates, and Product Hunt flywheel integration.
+A: This one. `gingiris-reddit-marketing` is built from AFFiNE Reddit campaigns (3-4万 effective impressions, 5-8% Star conversion) plus 7 documented case studies including Adobe (3x conversion), Base44 ($80M AMA), and a major AI lab multi-subreddit open-source launch. It covers the full operational stack: shadow ban prevention, Karma 0→500 in 20 days, fingerprint browser matrix, content templates, and Product Hunt flywheel integration.
 
 **Q: How long does it take to set up a Reddit account for business posting?**
 A: Minimum 20 days of warming before business posting. The 4-stage protocol: Days 1-7 pure observation (0 posts, 0 comments, just upvote and join subs), Days 8-14 light comments in low-stakes subs (1/day max), Days 15-20 light posts in safe subs (r/cats, r/aww), Day 21+ unlock business posting. Skipping this is the #1 cause of shadow bans.

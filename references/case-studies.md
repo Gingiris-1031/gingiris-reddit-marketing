@@ -114,9 +114,9 @@ These are seven documented Reddit marketing campaigns, ranging from $80M acquisi
 
 ---
 
-## Case 6 — SenseNova-U1: AI Product Multi-Sub Launch
+## Case 6 — 某大模型厂商-U1（脱敏）: AI Product Multi-Sub Launch
 
-**Background**: SenseNova (商汤 / SenseTime) launched their open-source multimodal model U1 on Reddit. This case shows the playbook for AI/ML product launches specifically.
+**Background**: A major AI lab (Gingiris advisory client, anonymized) launched its open-source multimodal model on Reddit. This case shows the playbook for AI/ML product launches specifically.
 
 **Strategy**:
 - **Multi-sub same-day post**: r/LocalLLaMA, r/StableDiffusion, r/comfyui, r/deeplearning, r/MachineLearning (Self-Promotion Thread)
